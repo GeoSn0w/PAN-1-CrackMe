@@ -13,7 +13,12 @@ The algorithm is dead simple, and I can give you only 1 piece of advice: "You've
 Tweet me pics when you complete the challenge. ^_^
 
 <b>Compatibility</b>
+
 The binary is compiled as a MACH-O 64, so, yeah, macOS.
+
+<b>Hall of fame</b>
+
+* @picatz - The first to crack this crack me.
 
 <b>Who made this?</b>
 

@@ -14,11 +14,11 @@ Tweet me pics when you complete the challenge. ^_^
 
 <b>Compatibility</b>
 
-The binary is compiled as a MACH-O 64, so, yeah, macOS.
+The binary is compiled as a `Mach-O 64-bit`, so, yeah, macOS.
 
 <b>Hall of fame</b>
 
-* @picatz - The first to crack this crack me.
+* `@picatz` - The first to crack this crack me.
 
 <b>Who made this?</b>
 
